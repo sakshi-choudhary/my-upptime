@@ -4,19 +4,19 @@
     "url": "http://sakshichoudhary.tech",
     "icon": "https://favicons.githubusercontent.com/sakshichoudhary.tech",
     "slug": "my-portfolio-v3",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 489,
-    "timeDay": 207,
-    "timeWeek": 489,
-    "timeMonth": 489,
-    "timeYear": 489,
+    "status": "up",
+    "uptime": "99.70%",
+    "uptimeDay": "98.17%",
+    "uptimeWeek": "99.70%",
+    "uptimeMonth": "99.70%",
+    "uptimeYear": "99.70%",
+    "time": 491,
+    "timeDay": 362,
+    "timeWeek": 491,
+    "timeMonth": 491,
+    "timeYear": 491,
     "dailyMinutesDown": {
-      "2021-05-24": 0
+      "2021-05-24": 26
     }
   },
   {
