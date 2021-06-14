@@ -6,7 +6,7 @@ sites:
   - name: My Portfolio v3
     url: http://sakshichoudhary.tech
   - name: My Portfolio v2
-    url: http://sakshichoudhary.me
+    url: https://sakshi-choudhary.github.io/
 
 status-website:
   theme: light
