@@ -5,16 +5,16 @@
     "icon": "https://favicons.githubusercontent.com/sakshichoudhary.tech",
     "slug": "my-portfolio-v3",
     "status": "up",
-    "uptime": "99.95%",
+    "uptime": "99.96%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.95%",
-    "time": 411,
-    "timeDay": 236,
-    "timeWeek": 277,
-    "timeMonth": 385,
-    "timeYear": 411,
+    "uptimeYear": "99.96%",
+    "time": 409,
+    "timeDay": 318,
+    "timeWeek": 284,
+    "timeMonth": 380,
+    "timeYear": 409,
     "dailyMinutesDown": {
       "2021-05-24": 26
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 127,
-    "timeDay": 48,
+    "time": 125,
+    "timeDay": 46,
     "timeWeek": 62,
-    "timeMonth": 117,
-    "timeYear": 127,
+    "timeMonth": 109,
+    "timeYear": 125,
     "dailyMinutesDown": {}
   }
 ]
