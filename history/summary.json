@@ -2,7 +2,7 @@
   {
     "name": "My Portfolio v3",
     "url": "http://sakshichoudhary.tech",
-    "icon": "https://favicons.githubusercontent.com/sakshichoudhary.tech",
+    "icon": "https://icons.duckduckgo.com/ip3/sakshichoudhary.tech.ico",
     "slug": "my-portfolio-v3",
     "status": "up",
     "uptime": "99.99%",
@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 336,
-    "timeDay": 521,
-    "timeWeek": 496,
-    "timeMonth": 553,
+    "timeDay": 139,
+    "timeWeek": 442,
+    "timeMonth": 548,
     "timeYear": 331,
     "dailyMinutesDown": {
       "2022-02-27": 58
@@ -22,7 +22,7 @@
   {
     "name": "My Portfolio v2",
     "url": "https://sakshi-choudhary.github.io/",
-    "icon": "https://favicons.githubusercontent.com/sakshi-choudhary.github.io",
+    "icon": "https://icons.duckduckgo.com/ip3/sakshi-choudhary.github.io.ico",
     "slug": "my-portfolio-v2",
     "status": "up",
     "uptime": "100.00%",
@@ -30,10 +30,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 91,
-    "timeDay": 127,
-    "timeWeek": 174,
-    "timeMonth": 108,
+    "time": 90,
+    "timeDay": 56,
+    "timeWeek": 160,
+    "timeMonth": 105,
     "timeYear": 90,
     "dailyMinutesDown": {}
   }
