@@ -4,7 +4,7 @@
     "url": "http://sakshichoudhary.tech",
     "icon": "https://icons.duckduckgo.com/ip3/sakshichoudhary.tech.ico",
     "slug": "my-portfolio-v3",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 208,
     "timeMonth": 273,
     "timeYear": 377,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-05-16": 0
+    }
   },
   {
     "name": "My Portfolio v2",
