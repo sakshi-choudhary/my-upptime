@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/sakshichoudhary.tech.ico",
     "slug": "my-portfolio-v3",
     "status": "down",
-    "uptime": "44.70%",
+    "uptime": "44.67%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-11-05": 67,
+      "2025-11-06": 66,
+      "2025-11-05": 1440,
       "2025-11-04": 1440,
       "2025-11-03": 1440,
       "2025-11-02": 1440,
@@ -379,8 +380,7 @@
       "2024-11-10": 1440,
       "2024-11-09": 1440,
       "2024-11-08": 1440,
-      "2024-11-07": 1440,
-      "2024-11-06": 1440
+      "2024-11-07": 1440
     }
   },
   {
@@ -389,18 +389,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/sakshi-choudhary.github.io.ico",
     "slug": "my-portfolio-v2",
     "status": "down",
-    "uptime": "68.04%",
+    "uptime": "67.99%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 98,
-    "timeDay": 37,
-    "timeWeek": 78,
-    "timeMonth": 95,
+    "timeDay": 59,
+    "timeWeek": 71,
+    "timeMonth": 96,
     "timeYear": 101,
     "dailyMinutesDown": {
-      "2025-11-05": 67,
+      "2025-11-06": 66,
+      "2025-11-05": 1440,
       "2025-11-04": 1440,
       "2025-11-03": 1440,
       "2025-11-02": 1440,
@@ -763,8 +764,7 @@
       "2024-11-10": 1440,
       "2024-11-09": 1440,
       "2024-11-08": 1440,
-      "2024-11-07": 1440,
-      "2024-11-06": 1440
+      "2024-11-07": 1440
     }
   }
 ]
